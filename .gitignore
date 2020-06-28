@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# datasets
+/data/python_code
+/data/english_news
+/data/Ten_Thousand_German_News_Articles
+
+
+.DS_Store
