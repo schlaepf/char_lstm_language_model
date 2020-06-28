@@ -75,7 +75,7 @@ It's very interesting to see, that the model basically learned to write (mostly)
 #### Loss during training
 
 In this plot we can see the loss during training. The x-axis doesn't really have a meaning, it's just the loss over time.
-![alt text](loss_40_epochs.png "Loss of during training")
+![loss during training](https://user-images.githubusercontent.com/18100041/85942386-31e35080-b929-11ea-99b2-4301dbf4a3cc.png "Loss of during training")
 
 ### Python source code (after 40 epochs)
 
