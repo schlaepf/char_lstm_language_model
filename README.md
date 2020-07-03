@@ -79,7 +79,7 @@ In this plot we can see the loss during training. The x-axis doesn't really have
 
 ### Python source code (after 40 epochs)
 
-That's what the model produced after 40 epochs of training on python source code, given the character #. It wouldn't compile obviously, but again, it does look like python code.
+That's what the model produced after 40 epochs of training on python source code, given the character #. The code wouldn't run obviously, but again, it does look like python code.
 
 
 ```python
